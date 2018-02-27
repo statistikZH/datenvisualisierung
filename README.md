@@ -15,7 +15,7 @@ Slides zum Workshop Datenvisualisierung (27.2.2018).
 
 ## Input Referat : Einblicke in die Arbeit des Interaktiv-Teams (Tagesanzeiger)
 [Marc Fehr](mailto:marc.fehr@tages-anzeiger.ch), Tagesanzeiger 
-[Slides](bit.ly/dataviz-tagi)
+[Slides](https://docs.google.com/presentation/d/1mscykb_MzDvPmiCKKe19b8sanFDJ2F7eqKndoN4iTbA/edit#slide=id.g311eecda5c_0_1)
 
 
 
