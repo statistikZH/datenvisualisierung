@@ -7,7 +7,7 @@ Slides zum Workshop Datenvisualisierung (27.2.2018).
 
 ## Ansprechende Grafiken mit minimalem Aufwand (R)
 [Thomas Lo Russo](mailto:thomas.lorusso@statistik.ji.zh.ch), Statistisches Amt Kanton Zürich  
-[Slides]()
+[Slides](https://tlorusso.github.io/datenvisualisierung/index.html)
 
 ## Visualisierung der Bildungsverläufe
 [Tobias Schalitt](mailto:tobias.schalit@bi.zh.ch), Abteilung Bildungsstatistik, Bildungsdepartement des Kantons Zürich
