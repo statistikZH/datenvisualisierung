@@ -11,7 +11,6 @@ Slides zum Workshop Datenvisualisierung (27.2.2018).
 
 ## Visualisierung der Bildungsverläufe
 [Tobias Schalitt](mailto:tobias.schalit@bi.zh.ch), Abteilung Bildungsstatistik, Bildungsdepartement des Kantons Zürich
-[Slides]()
 
 ## Input Referat : Einblicke in die Arbeit des Interaktiv-Teams (Tagesanzeiger)
 [Marc Fehr](mailto:marc.fehr@tages-anzeiger.ch), Tagesanzeiger 
